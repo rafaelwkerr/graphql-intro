@@ -1,0 +1,25 @@
+{
+  "name": "graphql-orders",
+  "version": "1.0.0",
+  "description": "Order Graphql API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelwkerr/graphql-orders.git"
+  },
+  "author": "Rafael Kerr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelwkerr/graphql-orders/issues"
+  },
+  "homepage": "https://github.com/rafaelwkerr/graphql-orders#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-graphql": "^0.5.4",
+    "graphql": "^0.7.2",
+    "mongodb": "^2.2.11"
+  }
+}
